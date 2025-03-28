@@ -1,3 +1,3 @@
 # Desimetre
 
-**Tomruk** ve **Kereste** için m³ hesaplama uygulaması.
+An application for calculating cubic meters (m³) for **Logs** and **Lumber**.
